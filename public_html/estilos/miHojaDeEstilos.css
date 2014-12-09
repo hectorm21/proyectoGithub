@@ -21,5 +21,6 @@ and open the template in the editor.
 body{
     background-color: yellowgreen;
     text-align:center;
+    padding:7px;
 }
 div{color:blue;}
